@@ -1,5 +1,5 @@
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="dark_copy.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="dark.svg">
   <img src="light.svg" alt="Ihor Selin — Frontend Engineer" width="100%">
 </picture>
 
